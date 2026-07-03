@@ -1,4 +1,4 @@
-# 🚀 Edge AI CNN Inference Engine on FPGA
+# Edge AI CNN Inference Engine on FPGA
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
@@ -127,7 +127,7 @@ Edge-AI-CNN-Inference-Engine-on-FPGA
 
 ---
 
-# 📷 RTL Schematic
+#  RTL Schematic
 
 <p align="center">
 <img src="docs/RTL_Schematic.png" width="950">
@@ -137,7 +137,7 @@ The RTL schematic illustrates the hierarchical implementation of the CNN acceler
 
 ---
 
-# 📷 Synthesized Schematic
+#  Synthesized Schematic
 
 <p align="center">
 <img src="docs/Synthesized_Schematic.png" width="950">
@@ -182,7 +182,7 @@ Timing analysis confirms successful synthesis. The design is fully synthesizable
 
 ---
 
-# ✅ Verification Status
+# Verification Status
 
 | Module | Status |
 |----------|:------:|
@@ -224,7 +224,7 @@ Timing analysis confirms successful synthesis. The design is fully synthesizable
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Abhay Nagure**
 
