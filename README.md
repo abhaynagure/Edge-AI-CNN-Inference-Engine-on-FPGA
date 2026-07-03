@@ -19,6 +19,14 @@ The design demonstrates how image data flows through convolution, activation, po
 
 Unlike software implementations, every stage is implemented as dedicated RTL hardware modules.
 
+## 🏗 CNN Hardware Architecture
+
+<p align="center">
+  <img src="docs/images/cnn_architecture.png" width="900">
+</p>
+
+The proposed FPGA accelerator performs CNN inference through a pipelined hardware architecture consisting of convolution, activation, pooling, flattening, dense classification, and ArgMax prediction.
+
 ---
 
 
