@@ -13,7 +13,7 @@
 
 ---
 
-# 🏗 CNN Hardware Architecture
+#  CNN Hardware Architecture
 
 <p align="center">
 <img src="docs/cnn_architecture.png" height="700" width="950">
