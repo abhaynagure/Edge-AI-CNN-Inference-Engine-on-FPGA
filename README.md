@@ -119,7 +119,6 @@ Edge-AI-CNN-Inference-Engine-on-FPGA
 ├── constraints/
 ├── memory/
 ├── docs/
-│     └── images/
 ├── vivado/
 ├── README.md
 └── LICENSE
