@@ -1,6 +1,13 @@
 # 🚀 Edge AI CNN Inference Engine on FPGA
 
-> Hardware implementation of a lightweight Convolutional Neural Network (CNN) inference engine using **Verilog HDL** and synthesized using **Xilinx Vivado 2026.1**.
+![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
+![FPGA](https://img.shields.io/badge/Target-FPGA-success)
+![RTL](https://img.shields.io/badge/Design-RTL-red)
+![CNN](https://img.shields.io/badge/AI-CNN-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+> Hardware implementation of a lightweight Convolutional Neural Network (CNN) inference engine using Verilog HDL and synthesized using Xilinx Vivado 2026.1.
 
 ---
 
