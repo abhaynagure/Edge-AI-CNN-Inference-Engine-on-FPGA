@@ -16,7 +16,7 @@
 # 🏗 CNN Hardware Architecture
 
 <p align="center">
-<img src="docs/cnn_architecture.png" width="950">
+<img src="docs/cnn_architecture.png" height="700" width="950">
 </p>
 
 The architecture implements a complete CNN inference pipeline entirely in RTL hardware. Image data flows through convolution, activation, pooling, flattening, dense classification, and ArgMax prediction, demonstrating an FPGA-oriented Edge AI accelerator.
