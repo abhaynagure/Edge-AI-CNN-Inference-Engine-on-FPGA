@@ -22,7 +22,7 @@ Unlike software implementations, every stage is implemented as dedicated RTL har
 ## 🏗 CNN Hardware Architecture
 
 <p align="center">
-  <img src="docs/cnn_architecture.png" alt="CNN Hardware Architecture" width="900">
+  <img src="docs/cnn_architecture.png" alt="CNN Hardware Architecture" height=600 width="700">
 </p>
 
 The proposed FPGA accelerator performs CNN inference through a pipelined hardware architecture consisting of convolution, activation, pooling, flattening, dense classification, and ArgMax prediction.
